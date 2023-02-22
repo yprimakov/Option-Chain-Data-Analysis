@@ -1,1 +1,5 @@
 tradier-python
+python-dotenv
+pandas
+scipy
+numpy
